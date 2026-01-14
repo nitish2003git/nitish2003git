@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitish2003git
 - 👀 I’m interested in ... full stack web development
-- 🌱 I’m currently learning ... MERN stack developing
+- 🌱 I’m have expertise in MERN stack developing
 - 💞️ I’m looking to collaborate on ... web development projects
 - 📫 How to reach me ... nitishsaini604@gmail.com
 
